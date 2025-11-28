@@ -10,14 +10,14 @@ predictions using the trained model.
 
 1. Send Your Demo Files to the Server
 -------------------------------------
-Replace "<test>" with your Gauss username.
+Replace "YOURNAME" with your Gauss username.
 
-    scp -r demo_files/ <test>@gauss.stat.virginia.edu:/home/<test>/
+    scp -r demo_files/ YOURNAME@gauss.stat.virginia.edu:/home/YOURNAME/
 
 
 2. SSH Into the Server
 ----------------------
-    ssh <test>@gauss.stat.virginia.edu
+    ssh YOURNAME@gauss.stat.virginia.edu
 
 
 3. Activate the PyTorch Anaconda Environment
