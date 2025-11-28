@@ -34,6 +34,7 @@ This uses all 4 NVIDIA P100 GPUs and takes a couple minutes.
 The trained model will be saved to: `./imdb-sentiment-model.pt`
 
 Run training:
+
     cd ~/gauss_demos/pytorch/sentiment-demo
     python train.py
 
