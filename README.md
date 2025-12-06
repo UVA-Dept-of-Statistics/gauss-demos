@@ -14,6 +14,7 @@ hardware, software environments, and computing resources.
 Structure
 ---------
 Each subdirectory contains:
+
     - A small, self-contained demo
     - Example commands or scripts
     - Any required files to reproduce the demonstration
